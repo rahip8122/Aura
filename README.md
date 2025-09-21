@@ -1,7 +1,8 @@
 # Aura: Your Confidential AI Wellness Companion - Prototype
 
 **Team Name:** Creators 2.0  
-**Team Leader:** Riya Vhora  
+**Team Leader:** Riya Vhora
+**Team Member:** Rahi Patel
 **Problem Statement:** Generative AI for Youth Mental Wellness
 
 ## Project Overview
